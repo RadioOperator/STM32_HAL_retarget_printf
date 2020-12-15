@@ -61,6 +61,7 @@ Refer to main.c file, all key-code here:
 #endif //#if DEBUG
 ```
 
+
 Notes for Segger_RTT method:
  - J-LINK debugger: full functions, refor to J-LINK documents.
  - CMSIS-DAP debugger: use this RTT Viewer https://github.com/XIVN1987/DRTTView/releases/tag/20190423
